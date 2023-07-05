@@ -1,0 +1,90 @@
+.gml{
+    position: absolute;
+    top: 0;
+    right:130px;
+}
+.img{
+    position: absolute;
+    top: 0;
+    right: 55px;
+}
+.boton{
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo{
+    
+    display:flex;
+    width: 272px;
+    height: 165px;
+    padding: 150px 150px 10px 150px;
+    align-items: center;
+   justify-content: center;
+}
+
+.buscar{
+   width: 450px;
+   height: 35px;
+   border-radius: 20px;
+   border: 1px solid #D3D3D3;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   padding-top: 1px;
+   justify-content: center;
+   align-items: center;
+    text-align: center;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 750px;
+    margin-left: 425px;
+
+   
+    
+
+
+}
+.titulo{
+    font-size: 16px;
+    color: #4A4A4A;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.minilog{
+    display: flex;
+    width: 55px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #D3D3D3;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 1px;
+    justify-content: space-around;
+   justify-content: center;
+
+}
+.texto{
+    font-size: 16px;
+    color: #4A4A4A;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+}
+
